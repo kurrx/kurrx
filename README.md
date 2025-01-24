@@ -5,5 +5,5 @@
 ### Hi 👋, I'm Ruslan!
 
 - Full Stack Software Engineer based in Almaty, KZ.
-- 3+ years of experience
+- 4+ years of experience
 - JS/TS, React, Node
